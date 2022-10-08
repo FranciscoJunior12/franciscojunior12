@@ -2,7 +2,7 @@
 
 
 - 🔭 Sou um desenvolvedor web e desktop.    
-- 🌱 Actualmnte estou aprendendo o framework django.
+- 🌱 Actualmente estou aprendendo o framework django.
 
 
 <div align="center1">
