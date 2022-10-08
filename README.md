@@ -1,16 +1,23 @@
-## Olá, eu sou Francisco Júnior
+## <h3> Olá!  Eu sou Francisco Júnior </h3> 
 
 
-- 🔭Sou um desenvolvedor web & desktop.
+- 🔭 Sou um desenvolvedor web e desktop.    
+- 🌱 Actualmnte estou aprendendo o framework django.
 
-- 🌱 Atualmente estou aprendendo o framework django.
 
-<div align="center">
-
+<div align="center1">
   <a href="https://github.com/franciscojunior12">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=franciscojunior12&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscojunior12&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+  <img  align = "left" height="180em" width ="47%" src="https://github-readme-stats.vercel.app/api?username=franciscojunior12&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img  align = "left" height="180"  width ="47%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscojunior12&layout=compact&langs_count=7&theme=dark"/>
+
+</div><br/>
+
+##	
+	
+<p>	
+<br/><br/><br/><br/>
+
+
 
 ## Tecnologias com as quais trabalho.
 
