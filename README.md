@@ -1,4 +1,4 @@
-## <h3> Olá,  Eu sou Francisco Júnior </h3> 
+## <h3> Olá,  eu sou Francisco Júnior </h3> 
 
 
 - 🔭 Sou um desenvolvedor web júnior    
