@@ -1,6 +1,6 @@
 
 ## Hi, I'm Francisco Júnior
-I'm a web developer with a interest in Artificial Intelligence (AI).
+I'm a web developer with a interest in Artificial Intelligence.
 
 ## My Skills
 
