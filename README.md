@@ -15,7 +15,8 @@ I'm a web developer with a interest in Artificial Intelligence.
 
 - **Back-End:**
   
-  <img align="center" alt="react" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="react" height="50" width="70" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg">
+  <img align="center" alt="django" height="50" width="70" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg">
 
   
 - **Database:**
@@ -26,6 +27,7 @@ I'm a web developer with a interest in Artificial Intelligence.
 - **Special Interest:**
   
     <img align="center" alt="js" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+   
 
 
 
